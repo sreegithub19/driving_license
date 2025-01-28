@@ -25,3 +25,7 @@ https://github.com/sreegithub19/driving_license/blob/main/DOC-20231122-WA0003..p
 - Two wheeler Insurance :
   -   https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/WHEELER/FMfcgxwDqTXmnSddmXqmqJhBccmSCsfh
   -   https://github.com/sreegithub19/driving_license/blob/main/920221823690632855.pdf
+
+- Two wheeler driving license:
+  - <img src="2W_DL_1.jpg"/>
+  - <img src="2W_DL_2.jpg"/>
