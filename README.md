@@ -33,3 +33,8 @@ https://github.com/sreegithub19/driving_license/blob/main/DOC-20231122-WA0003..p
 - Two wheeler driving license:
   - <img src="2W_DL_1.jpg"/>
   - <img src="2W_DL_2.jpg"/>
+
+
+- Two wheeler digital plate fitment:
+  - https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSsHcbSQDKHQblWTnjBWKlxNx
+  - https://github.com/sreegithub19/driving_license/blob/main/Payment_Receipt.pdf
