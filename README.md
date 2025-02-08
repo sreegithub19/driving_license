@@ -36,5 +36,6 @@ https://github.com/sreegithub19/driving_license/blob/main/DOC-20231122-WA0003..p
 
 
 - Two wheeler digital plate fitment:
-  - https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSsHcbSQDKHQblWTnjBWKlxNx
+  - HSRP Fitment Appointment Slip (2_wheeler digital plate) :
+      - https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQZSsHcbSQDKHQblWTnjBWKlxNx
   - https://github.com/sreegithub19/driving_license/blob/main/Payment_Receipt.pdf
